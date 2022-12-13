@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 3,
+  "EndLine": 3,
+  "StartColumn": 6,
+  "EndColumn": 34,
+  "Match": "password\": \"6bBDSKQvb2Q9Fi9d\"",
+  "Secret": "6bBDSKQvb2Q9Fi9d",
+  "File": "example-secrets-that-already-exist.json",
+  "SymlinkFile": "",
+  "Commit": "8a699b87fc98790826ff9d955e8a1f46dbaf55ff",
+  "Entropy": 3.625,
+  "Author": "Matt Peake",
+  "Email": "matt.peake@apollographql.com",
+  "Date": "2022-12-13T22:29:31Z",
+  "Message": "pushing secrets",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "8a699b87fc98790826ff9d955e8a1f46dbaf55ff:example-secrets-that-already-exist.json:generic-api-key:3"
+ }
+]
