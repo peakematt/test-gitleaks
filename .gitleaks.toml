@@ -1,0 +1,11 @@
+title = "Custom Gitleaks Config"
+
+[extend]
+
+useDefault = true
+
+[allowlist]
+description = "custom global allowlist"
+paths = [
+    ".gitleaks-baseline.json"
+]
